@@ -7,6 +7,9 @@ Identitas diri:
 ## Nama Benda
 Benda yang saya foto adalah "Kotak Pensil" diawali dengan huruf K.
 
+## Deployment
+https://cg2021a.github.io/tugas-1-timmtimm/
+
 ## Foto Benda
 
 ### Tampak depan atas
