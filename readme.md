@@ -9,9 +9,9 @@ Benda yang saya foto adalah "Kotak Pensil" diawali dengan huruf K.
 
 ## Deployment
 ### Menggambar Kotak Pensil
-https://cg2021a.github.io/tugas-1-timmtimm/Menggambar%20Kotak%20Pensil/index.html
+https://cg2021a.github.io/tugas-1-timmtimm/Menggambar%20Kotak%20Pensil
 ### Mencoba ThreeJs
-https://cg2021a.github.io/tugas-1-timmtimm/Menncoba%20ThreeJS/index.html
+https://cg2021a.github.io/tugas-1-timmtimm/Mencoba%20ThreeJS
 
 ## Foto Benda
 |Tampak kanan atas|Tampak kiri atas|
