@@ -8,18 +8,16 @@ Identitas diri:
 Benda yang saya foto adalah "Kotak Pensil" diawali dengan huruf K.
 
 ## Deployment
-https://cg2021a.github.io/tugas-1-timmtimm/
+### Menggambar Kotak Pensil
+https://cg2021a.github.io/tugas-1-timmtimm/Menggambar%20Kotak%20Pensil/index.html
+### Mencoba ThreeJs
+https://cg2021a.github.io/tugas-1-timmtimm/Menncoba%20ThreeJS/index.html
 
 ## Foto Benda
+|Tampak kanan atas|Tampak kiri atas|
+| :-:                 |            :-:     |
+|![Depan atas](images/depan_atas.png)|![Kanan atas](images/kanan_atas.png)|
 
-### Tampak depan atas
-![Depan atas](images/depan_atas.png)
-
-### Tampak kanan atas
-![Kanan atas](images/kanan_atas.png)
-
-### Tampak belakang atas
-![Belakang atas](images/belakang_atas.png)
-
-### Tampak kiri atas
-![Kiri atas](images/kiri_atas.png)
+|Tampak belakang atas|Tampak depan atas|
+| :-:                 |            :-:     |
+|![Belakang atas](images/belakang_atas.png)|![Kiri atas](images/kiri_atas.png)|
